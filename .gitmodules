@@ -7,3 +7,6 @@
 [submodule "clase6"]
 	path = clase6
 	url = https://github.com/utn-fullstack/clase6.git
+[submodule "clase7"]
+	path = clase7
+	url = https://github.com/adrxlm/clase7.git
