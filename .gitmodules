@@ -10,3 +10,12 @@
 [submodule "clase7"]
 	path = clase7
 	url = https://github.com/adrxlm/clase7.git
+[submodule "clase10"]
+	path = clase10
+	url = https://github.com/adrxlm/clase10.git
+[submodule "clase11"]
+	path = clase11
+	url = https://github.com/utn-fullstack/clase11.git
+[submodule "clase12"]
+	path = clase12
+	url = https://github.com/utn-fullstack/clase12.git
